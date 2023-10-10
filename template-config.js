@@ -3,3 +3,8 @@ function foo() {
 }
 
 console.log(foo())
+
+function someCodeChanges() {
+    console.log('code changed here');
+    return 7;
+}

@@ -1,3 +1,3 @@
 # template
 
-## This is just test repo with "template"
+## This text was changed in template
